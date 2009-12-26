@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Helpers.Net.Configuration.ConfigurationElementCollectionBase&lt;T&gt;">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAIAAACAAABAAAAAABAAAACAAAAABQAAA=</HashCode>
+      <FileName>ConfigurationElementCollectionBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Helpers.Net.Configuration.Provider.ProvidersSection">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABEAAAAAAAAAAAAAAAAAgAAAAAIAAAAAAA=</HashCode>
+      <FileName>ProvidersSection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Helpers.Net.Configuration.Provider.ProviderBase">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAQAAEAAAAAQAAAAAAAAAgAEABAAAAAA=</HashCode>
+      <FileName>ProviderBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Helpers.Net.Configuration.Provider.ProviderCollection&lt;T&gt;">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProviderCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Helpers.Net.Configuration.Provider.ProviderRepository&lt;T&gt;">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAAAAECAAAAAAAQAAAAAAIAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>ProviderRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
