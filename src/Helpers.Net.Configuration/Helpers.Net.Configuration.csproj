@@ -12,8 +12,7 @@
     <AssemblyName>Helpers.Net.Configuration</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <TargetFrameworkProfile>
-    </TargetFrameworkProfile>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -36,7 +35,6 @@
     <Reference Include="System" />
     <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Web" />
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
@@ -45,6 +43,7 @@
     <Compile Include="ProviderBase.cs" />
     <Compile Include="ProviderCollection.cs" />
     <Compile Include="ProviderRepository.cs" />
+    <Compile Include="ProvidersHelper.cs" />
     <Compile Include="ProvidersSection.cs" />
   </ItemGroup>
   <ItemGroup>

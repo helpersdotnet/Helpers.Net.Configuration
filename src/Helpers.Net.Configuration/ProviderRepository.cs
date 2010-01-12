@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Configuration;
 using System.Configuration.Provider;
-using System.Web.Configuration;
 
 namespace Helpers.Net.Configuration.Provider
 {
