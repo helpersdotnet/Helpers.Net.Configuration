@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Helpers.Net.ConfigurationDotNet20")]
+[assembly: AssemblyTitle("Helpers.Net.ConfigurationDotNet")]
 [assembly: AssemblyDescription("http://www.prabir.me")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Prabir Shrestha")]
-[assembly: AssemblyProduct("Helpers.Net.ConfigurationDotNet20")]
-[assembly: AssemblyCopyright("Copyright ©  2009")]
+[assembly: AssemblyProduct("Helpers.Net.ConfigurationDotNet")]
+[assembly: AssemblyCopyright("Copyright ©  2010")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.20010.10112.11625")]
-[assembly: AssemblyFileVersion("1.20010.10112.11625")]
+[assembly: AssemblyVersion("1.30010.10128.11745")]
+[assembly: AssemblyFileVersion("1.30010.10128.1745")]

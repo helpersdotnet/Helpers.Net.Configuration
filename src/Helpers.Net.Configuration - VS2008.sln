@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual C# Express 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers.Net.ConfigurationDotNet20", "DotNet20\Helpers.Net.ConfigurationDotNet20.csproj", "{3FC68B3B-59BF-4A38-8CF1-C996E74BAB0F}"
+# Visual Web Developer Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers.Net.Configuration", "Helpers.Net.Configuration\Helpers.Net.Configuration.csproj", "{A98D67CA-97FB-497A-8E85-152287C0BFD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3FC68B3B-59BF-4A38-8CF1-C996E74BAB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3FC68B3B-59BF-4A38-8CF1-C996E74BAB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3FC68B3B-59BF-4A38-8CF1-C996E74BAB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3FC68B3B-59BF-4A38-8CF1-C996E74BAB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98D67CA-97FB-497A-8E85-152287C0BFD2}.Debug|Any CPU.ActiveCfg = Debug| .NET 2.0
+		{A98D67CA-97FB-497A-8E85-152287C0BFD2}.Debug|Any CPU.Build.0 = Debug| .NET 2.0
+		{A98D67CA-97FB-497A-8E85-152287C0BFD2}.Release|Any CPU.ActiveCfg = Release| .NET 4.0 Client Profile
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
